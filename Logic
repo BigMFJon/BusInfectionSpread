@@ -1,12 +1,1 @@
-Timer
-
-hashmap <passenger, int time> compare to time step
-
-if time step = psg.time => enter queue
-if pgs boarded/disembarked => psg.time = time step + durationWork
-
-Bus (array of passengers)
-
-
-single threading
 
